@@ -1,0 +1,1 @@
+Save /var/mobile/Library/SpringBoard/DesiredIconState.plist. To have Atria handle it after a respring. That’s where all the stuff is stored. You could also save /var/mobile/Library/SpringBoard/IconState.plist for the actual layout file but there’s stuff in there that I don’t recognise so I highly advice against that.
